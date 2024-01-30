@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: x-large;
+}
+.headingClass {
+  text-align: center;
+  margin: 20px 10px auto;
+}
+.box1 {
+  margin: 30px auto;
+}
+.box2 {
+}
+.heightClass {
+}
+.weightClass {
+}
+.btnClass {
+  margin-top: 40px;
+  margin-left: 8%;
+  width: 8rem;
+  height: 35px;
+  font-size: x-large;
+  border-radius: 10px;
+}
+.resultClass{
+    /* border: 3px solid red; */
+    margin-top: 20px;
+}
+.wrapper {
+  margin: 40px auto;
+  font-size: large;
+}
